@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "build_alpha_0.2", "build_alpha_0.2\build_alpha_0.2.csproj", "{D047BB7E-F0C2-460E-840B-33334480F9AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMFServer", "TMFServer\TMFServer.csproj", "{E07CFC59-7669-43C3-BB6C-5F41CB868512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D047BB7E-F0C2-460E-840B-33334480F9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D047BB7E-F0C2-460E-840B-33334480F9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D047BB7E-F0C2-460E-840B-33334480F9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D047BB7E-F0C2-460E-840B-33334480F9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E07CFC59-7669-43C3-BB6C-5F41CB868512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07CFC59-7669-43C3-BB6C-5F41CB868512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07CFC59-7669-43C3-BB6C-5F41CB868512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07CFC59-7669-43C3-BB6C-5F41CB868512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B843D656-52AE-4E7B-B55A-EB4457E057D7}
+	EndGlobalSection
+EndGlobal

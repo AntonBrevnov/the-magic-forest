@@ -1,0 +1,7 @@
+D:\Projects\C#Projects\TheMagicForest\TMFServer\bin\Debug\TMFServer.exe.config
+D:\Projects\C#Projects\TheMagicForest\TMFServer\bin\Debug\TMFServer.exe
+D:\Projects\C#Projects\TheMagicForest\TMFServer\bin\Debug\TMFServer.pdb
+D:\Projects\C#Projects\TheMagicForest\TMFServer\obj\Debug\TMFServer.csprojAssemblyReference.cache
+D:\Projects\C#Projects\TheMagicForest\TMFServer\obj\Debug\TMFServer.csproj.CoreCompileInputs.cache
+D:\Projects\C#Projects\TheMagicForest\TMFServer\obj\Debug\TMFServer.exe
+D:\Projects\C#Projects\TheMagicForest\TMFServer\obj\Debug\TMFServer.pdb
